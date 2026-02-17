@@ -1,0 +1,48 @@
+Copyright (c) 2026 Georgios Stavropoulos. All rights reserved.
+
+Source Available License
+
+Permission is hereby granted to any person obtaining a copy of this software
+and associated documentation files (the "Software") to view and study the
+source code for personal, educational, and non-commercial research purposes,
+subject to the following conditions:
+
+1. NON-COMMERCIAL USE ONLY
+   The Software may not be used, in whole or in part, to build, operate, or
+   distribute any product or service that generates revenue, directly or
+   indirectly, without prior written permission from the copyright holder.
+
+2. NO REDISTRIBUTION
+   Redistribution of the Software, in source or binary form, with or without
+   modification, is not permitted without prior written permission from the
+   copyright holder.
+
+3. NO DERIVATIVE WORKS FOR DISTRIBUTION
+   You may modify the Software for personal use, but you may not distribute
+   modified versions without prior written permission from the copyright holder.
+
+4. ATTRIBUTION
+   Any permitted use of the Software must include clear attribution to the
+   original author: Georgios [Your Last Name], [Your Institution/App Name].
+
+5. APP STORE RESTRICTION
+   Submission of the Software, or any derivative work based on it, to Apple's
+   App Store or any other application marketplace is strictly prohibited without
+   prior written permission from the copyright holder.
+
+6. ACADEMIC AND RESEARCH USE
+   Use of the Software for academic research and publication is permitted,
+   provided that proper attribution is given and no commercial exploitation
+   occurs.
+
+7. TERMINATION
+   Any violation of these terms automatically terminates your rights under
+   this license. Upon termination, you must destroy all copies of the Software
+   in your possession.
+
+8. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THE SOFTWARE.
+
+For permissions beyond the scope of this license, contact: 
