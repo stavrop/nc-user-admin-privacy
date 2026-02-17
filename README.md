@@ -64,7 +64,7 @@ From a user's detail page, you can:
 
 ## Requirements
 
-- iOS 17.0+ / ~~iPadOS 17.0+~~ (iPhone-only for v1.0)
+- iOS 18.0+ (iPhone-only for v1.0)
 - Nextcloud server with OCS API enabled (Nextcloud 15+)
 - Admin or group admin permissions on the Nextcloud server
 
@@ -91,27 +91,6 @@ This app uses the Nextcloud OCS API (v1.php):
 - `DELETE /ocs/v1.php/cloud/users/{userid}/groups` - Remove user from group
 - `GET /ocs/v1.php/cloud/groups` - List all groups
 
-## App Store Submission
-
-**✅ This app is ready for the App Store!**
-
-All production features are implemented:
-- ✅ Secure Keychain storage for passwords
-- ✅ Face ID / Touch ID authentication
-- ✅ Lock screen when backgrounding
-- ✅ Complete privacy policy
-- ✅ Production-ready code
-
-**Ready to submit?** Start here:
-👉 **[IPHONE_ONLY_SUMMARY.md](IPHONE_ONLY_SUMMARY.md)** - ⚡ NEW: iPhone-only configuration!
-👉 **[SUBMISSION_SUMMARY.md](SUBMISSION_SUMMARY.md)** - Complete submission overview
-
-Quick guides:
-- [iPhone-Only Setup](IPHONE_ONLY_SETUP.md) - Configure for iPhone-only (saves 2-3 hours!)
-- [Quick Submission Guide](QUICK_SUBMISSION_GUIDE.md) - Step-by-step action plan
-- [App Icon Guide](APP_ICON_GUIDE.md) - Create your app icon
-- [Test Server Setup](TEST_CREDENTIALS_GUIDE.md) - Set up demo for Apple reviewers
-- [Privacy Policy Hosting](GITHUB_PAGES_SETUP.md) - Host on GitHub Pages
 
 ## Security Notes
 
@@ -140,4 +119,4 @@ Potential features to add:
 
 ## License
 
-This is a demonstration project. Modify as needed for your use case.
+Please see the LICENSE.txt file for more details
